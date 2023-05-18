@@ -17,7 +17,7 @@ class PeopleTable extends React.Component {
         isLoading: true,
         isAdding: false,
         isEditMode:false,
-        //currentId:0
+        currentId:0
        
 
     }
